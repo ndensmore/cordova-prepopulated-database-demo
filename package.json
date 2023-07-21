@@ -4,11 +4,13 @@
   "requires": true,
   "packages": {},
   "devDependencies": {
-    "cordova-browser": "^7.0.0"
+    "cordova-browser": "^7.0.0",
+    "cordova-ios": "^7.0.0"
   },
   "cordova": {
     "platforms": [
-      "browser"
+      "browser",
+      "ios"
     ]
   }
 }
